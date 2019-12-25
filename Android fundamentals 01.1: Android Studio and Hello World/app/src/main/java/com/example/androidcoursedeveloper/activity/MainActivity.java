@@ -11,7 +11,7 @@ import com.example.androidcoursedeveloper.R;
 
 public class MainActivity extends AppCompatActivity {
 
-    TextView gen_text;
+    TextView genText;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -20,8 +20,8 @@ public class MainActivity extends AppCompatActivity {
 
         final String congratulation = "Happy Birthday to Petya";
 
-        gen_text = (TextView) findViewById(R.id.text_gen_id);
-        gen_text.setText(congratulation);
+        genText = (TextView) findViewById(R.id.text_gen_id);
+        genText.setText(congratulation);
 
         Log.e("division zero", String.valueOf(0 / 5));
 
