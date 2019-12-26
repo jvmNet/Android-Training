@@ -11,19 +11,18 @@ import com.example.androidcoursedeveloper.R;
 
 public class MainActivity extends AppCompatActivity {
 
-    TextView genText;
+    private TextView actionText;
+    private final static String TAG = MainActivity.class.getName();
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_layout);
 
-        final String congratulation = "Happy Birthday to Petya";
+        actionText = (TextView) findViewById(R.id.text_view);
+        actionText.setText(R.string.congratulation);
 
-        genText = (TextView) findViewById(R.id.text_gen_id);
-        genText.setText(congratulation);
-
-        Log.e("division zero", String.valueOf(0 / 5));
+        Log.e(TAG, String.valueOf(0 / 5));
 
     }
 
