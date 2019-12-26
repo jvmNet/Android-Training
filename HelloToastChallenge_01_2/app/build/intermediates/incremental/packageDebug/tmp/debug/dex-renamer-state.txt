@@ -1,0 +1,4 @@
+#Thu Dec 26 14:24:27 EET 2019
+base.0=/home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
