@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
     *             the passed in view is not used.
     */
     public void showToast(View view) {
-        Toast toast = Toast.makeText(this, R.string.toast_message,
+        Toast toast = Toast.makeText(this, "Count click = " + mCount,
                 Toast.LENGTH_SHORT);
         toast.show();
     }
