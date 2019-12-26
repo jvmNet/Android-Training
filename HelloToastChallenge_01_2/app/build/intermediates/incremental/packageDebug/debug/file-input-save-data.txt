@@ -1,7 +1,7 @@
 #Internal package file, do not edit.
-#Wed Dec 25 19:41:33 EET 2019
+#Thu Dec 26 17:23:38 EET 2019
 0.baseType=DIRECTORY
-0.base=/home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/build/intermediates/transforms/dexMerger/debug/0
+0.base=/home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/build/intermediates/transforms/dexMerger/debug/0
 0.path=classes.dex
 0.set=DEX
 count=1

@@ -33,7 +33,6 @@
                     }
                 }
             ]
-<<<<<<< HEAD
         },
         {
             "outputFile": "/home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
@@ -68,8 +67,6 @@
                     }
                 }
             ]
-=======
->>>>>>> origin/develop
         }
     ]
 }
