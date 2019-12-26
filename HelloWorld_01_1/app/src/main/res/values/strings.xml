@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AndroidCourseDeveloper</string>
-    <string name="text_gen">Hello World!</string>
+    <string name="action_text">Hello World!</string>
+    <string name="congratulation">Happy Birthday to Petya!</string>
 </resources>
