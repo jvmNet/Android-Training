@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:18:1-37:12
-INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:18:1-37:12
-INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:18:1-37:12
-INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:18:1-37:12
+ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:18:1-37:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/javac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/482ccf4347aca0f6cb1f293465dd4fda/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/javac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d5074572aa5e74f1880e837cbd6191dd/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/javac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4c801d8ae7c8ea047fadd0671bdf3288/AndroidManifest.xml:17:1-28:12
@@ -15,25 +15,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] /home/javac/.gradle/
 MERGED from [com.android.support:support-core-ui:26.1.0] /home/javac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b35e6aed7387cda029c8c4a422595c9f/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] /home/javac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/39a6bd2cdd4c21735dcfb5bdc3c8b519/AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/javac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/608cebd7cb423b2f46481d274e49e697/AndroidManifest.xml:17:1-30:12
-INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:18:1-37:12
-INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:18:1-37:12
-INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:18:1-37:12
 	package
-		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:19:5-45
-		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml
-		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml
+		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:19:5-45
+		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml
-		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:18:1-37:12
-		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml
+		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml
+		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:18:1-37:12
+		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml
-		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:18:1-37:12
-		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml
+		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml
+		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:18:1-37:12
+		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:18:11-69
+		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:18:11-69
 application
-ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:21:5-35:19
+ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:21:5-35:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/javac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/482ccf4347aca0f6cb1f293465dd4fda/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/javac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/482ccf4347aca0f6cb1f293465dd4fda/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/javac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d5074572aa5e74f1880e837cbd6191dd/AndroidManifest.xml:9:5-20
@@ -57,35 +57,35 @@ MERGED from [com.android.support:support-compat:26.1.0] /home/javac/.gradle/cach
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/javac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/608cebd7cb423b2f46481d274e49e697/AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/javac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/608cebd7cb423b2f46481d274e49e697/AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:26:9-35
+		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:26:9-35
 	android:label
-		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:24:9-41
+		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:24:9-41
 	android:roundIcon
-		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:25:9-54
+		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:25:9-54
 	android:icon
-		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:23:9-43
+		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:23:9-43
 	android:allowBackup
-		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:22:9-35
+		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:27:9-40
+		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:27:9-40
 activity#com.example.android.hellotoast.MainActivity
-ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:28:9-34:20
+ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:28:9-34:20
 	android:name
-		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:28:19-47
+		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:28:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:29:13-33:29
+ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:30:17-69
+ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:32:17-77
+ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml:32:27-74
+		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml:32:27-74
 uses-sdk
-INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml
-INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml
+INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml
+INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/javac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/482ccf4347aca0f6cb1f293465dd4fda/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] /home/javac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/482ccf4347aca0f6cb1f293465dd4fda/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/javac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/d5074572aa5e74f1880e837cbd6191dd/AndroidManifest.xml:5:5-7:41
@@ -108,18 +108,18 @@ MERGED from [com.android.support:support-compat:26.1.0] /home/javac/.gradle/cach
 MERGED from [com.android.support:support-compat:26.1.0] /home/javac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/39a6bd2cdd4c21735dcfb5bdc3c8b519/AndroidManifest.xml:21:5-23:58
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/javac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/608cebd7cb423b2f46481d274e49e697/AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/javac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/608cebd7cb423b2f46481d274e49e697/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml
-INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml
+INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml
+INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/javac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/482ccf4347aca0f6cb1f293465dd4fda/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml
-		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml
-		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml
+		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml
+		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml
-		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml
-		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge/app/src/main/AndroidManifest.xml
+		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml
+		ADDED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/javac/AndroidStudioProjects/Android-Training/HelloToastChallenge_01_2/app/src/main/AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:26.1.0] /home/javac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/482ccf4347aca0f6cb1f293465dd4fda/AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/javac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4c801d8ae7c8ea047fadd0671bdf3288/AndroidManifest.xml:23:9-25:38
