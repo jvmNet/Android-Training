@@ -34,8 +34,6 @@ public class MainActivity extends AppCompatActivity {
 
     private int mCount = 0;
     private TextView mShowCount;
-    
-    private String text = "test";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
